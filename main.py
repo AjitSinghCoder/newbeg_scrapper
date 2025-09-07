@@ -13,7 +13,7 @@ for url in EXT_PRODUCT_URL:
   except:
     print("Url -> ", url)
     print("Status code -> ", response.status_code)
-    print("Please use proxy to access the website")
+    print("Please use VPN to access the website")
     continue
 
   selector = Selector(response.text)

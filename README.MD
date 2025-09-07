@@ -35,13 +35,15 @@ Store the data in a SQLite database newegg_products.db located in the main folde
 
 ### 4. View the database
     You can view the stored data using any SQLite viewer
-    
+
 ### 5. Proxy instructions (if required)
     If the terminal shows output like this:
 
     Url -> <some_url>
     Status code -> <some_status_code>
-    Please use proxy to access the website
+    Please use VPN to access the website
 
     It means the website is blocking direct access.
     Please configure and use a proxy to fetch the data successfully.
+
+    You can use VPN -> PROTON
